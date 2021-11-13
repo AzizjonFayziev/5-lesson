@@ -1,0 +1,9 @@
+git init
+git add .  or  git add название файла
+git commit -m "message"
+git remote add otigin ссылка_на репазиторий
+git push -u origin ветка
+
+git add .
+git commit -m "message"
+git push
